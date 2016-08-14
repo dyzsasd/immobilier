@@ -1,3 +1,4 @@
 env/
 run/
 immobilier/local_settings.py
+*.pyc
